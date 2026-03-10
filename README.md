@@ -1,7 +1,7 @@
 <div align="center">
 </div>
 
-# Run and deploy m portfolio
+# Run and deploy my portfolio
 
 This contains everything you need to run your app locally.
 
