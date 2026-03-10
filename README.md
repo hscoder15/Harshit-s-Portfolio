@@ -3,7 +3,7 @@
 
 # Run and deploy my portfolio
 
-This contains everything you need to run your app locally.
+This contains everything that is needed to run this locally.
 
 ## Run Locally
 
